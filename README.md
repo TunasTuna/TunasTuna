@@ -1,8 +1,8 @@
-# 🦖 Tunastuna
+# 🦖 Tunastuna 🐟
 
 **`Computer Engineering Student`**
 
-2 years of Linux and 4 years exposed in the tech field
+2 years of Linux and 4 years exposed in the tech field. My codes are 80% vibecoded, and only 20% are actually mine. AHAHAHAHA
 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Remarkable-Western-8) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sh0hou) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juntillatantan@gmail.com) 
 
