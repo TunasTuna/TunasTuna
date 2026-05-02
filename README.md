@@ -1,4 +1,5 @@
-# 🦖 About Me:
+# 🦖 Tunastuna
+**`Computer Engineering Student`**
 2 years of Linux and 4 years exposed in the tech field
 
 
