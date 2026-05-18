@@ -1,6 +1,6 @@
 # 🦖 Tunastuna 🐟
 
-**`Computer Engineering Student`**
+**`Computer Engineering Student`** **`AI`** **`Robotics`** **`Machine Learning`**
 
 I want to participate in the AI race that's why I chose BSCpE as my course. I'm using linux for 2 years (I usually use Fedora, Ubuntu, and Arch). Also I'm a former technical director of "Ang Tinubdan Publication" where my team won first place and second place (District Level). My codes here are 60% vibecoded, and only 40% are actually mine AHAHAHAHAHAHAHA
 
