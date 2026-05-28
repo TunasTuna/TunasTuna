@@ -4,7 +4,7 @@
 
 I want to participate in the AI race that's why I chose BSCpE as my course. I'm using linux for 2 years (I usually use Fedora, Ubuntu, and Arch). Also I'm a former technical director of "Ang Tinubdan Publication" where my team won first place and second place (District Level). My codes here are 60% vibecoded, and only 40% are actually mine AHAHAHAHAHAHAHAHA
 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Remarkable-Western-8) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sh0hou) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juntillatantan@gmail.com) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Remarkable-Western-8) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sh0hou) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juntillatantan@gmail.com) [![Roblox](https://img.shields.io/badge/Roblox-%23000000.svg?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/share?code=1323019645be324f82930ac26e468dac&type=Profile&source=ProfileShare&stamp=1779996252402)
 
 ---
 
