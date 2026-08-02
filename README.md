@@ -1,1 +1,1 @@
-![](./assets/fetch-card.svg)
+![](./fetch-card.svg)
