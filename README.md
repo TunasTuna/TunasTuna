@@ -2,10 +2,6 @@
 
 **`Computer Engineering Student`** **`AI`** **`Robotics`** **`Machine Learning`** **`Deep Learning`**
 
-
-
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Remarkable-Western-8) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sh0hou) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juntillatantan@gmail.com) [![Roblox](https://img.shields.io/badge/Roblox-%23000000.svg?logo=roblox&logoColor=white)](https://www.roblox.com/share?code=1323019645be324f82930ac26e468dac&type=Profile&source=ProfileShare&stamp=1779996252402)
-
 ---
 
 # 💻 Languages and Tools:
