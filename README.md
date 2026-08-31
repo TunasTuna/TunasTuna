@@ -1,4 +1,3 @@
-<img src="image/13ee6b9afcdcf5f26d605020bc9faedf.jpg" alt="Description" width="400"/>
 <p align="center">
   <img src="image/13ee6b9afcdcf5f26d605020bc9faedf.jpg" alt="Description" width="300"/>
 </p>
