@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Tan;Machine+Learning+Enthusiast;Deep+Learning+Theory+Nerd" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+TunasTuna;Machine+Learning+Enthusiast;Deep+Learning+Theory+Nerd" />
 </p>
-
-# 🦖 Tunastuna 🐟
 
 **`Computer Engineering Student`** **`AI`** **`Robotics`** **`Machine Learning`** **`Deep Learning`**
 
