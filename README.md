@@ -1,11 +1,11 @@
-<p align="center">
-  <img src="image/freddy.jpg" alt="Freddy" width="100%"/>
-</p>
 
 # 🦖 Tunastuna 🐟
 
 **`Computer Engineering Student`** **`AI`** **`Robotics`** **`Machine Learning`** **`Deep Learning`**
-
+---
+<p align="center">
+  <img src="image/freddy.jpg" alt="Freddy" width="100%"/>
+</p>
 ---
 
 # 💻 Languages and Tools:
