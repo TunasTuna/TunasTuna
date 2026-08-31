@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="image/freddy.jpg" alt="Freddy" width="300"/>
+  <img src="image/freddy.jpg" alt="Freddy" width="100%"/>
 </p>
-
 
 # 🦖 Tunastuna 🐟
 
